@@ -10,8 +10,8 @@ at 1pm on January 12th 2018, fetched from http://api.open-notify.org/iss-now.jso
 let iss_location = {
     "timestamp": 1515784140,
     "iss_position": {
-        "latitude": "49.2167", 
-        "longitude": "100.5363"
+        "latitude": "49.2167", //input latitude information
+        "longitude": "100.5363" //input longitude information
     },
     "message": "success"
 }
